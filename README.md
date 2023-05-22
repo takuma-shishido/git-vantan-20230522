@@ -2,5 +2,5 @@
 
 ## 今日やること
 
-conflict
-conflict を発生させる
+- conflict
+- conflict を発生させる
